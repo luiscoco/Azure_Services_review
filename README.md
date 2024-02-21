@@ -248,6 +248,10 @@ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quicks
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1dde36d3-587f-4a14-bc88-6a9e8bfe1e68)
 
+### 2.11. Mongo Atlas
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f48f21ee-1c6d-457f-9f6a-99b6132e5620)
+
 ## 3. Compute
 
 
