@@ -162,6 +162,19 @@ https://learn.microsoft.com/en-us/training/modules/intro-to-form-recognizer/
 
 https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0
 
+Azure AI Document Intelligence is a cloud-based Azure AI service that enables you to build intelligent document processing solutions
+
+Massive amounts of data, spanning a wide variety of data types, are stored in forms and documents
+
+Document Intelligence enables you to effectively manage the velocity at which data is collected and processed and is key to improved operations, informed data-driven decisions, and enlightened innovation
+
+**Get started with Document Intelligence**: 
+
+https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/get-started-sdks-rest-api?view=doc-intel-4.0.0&pivots=programming-language-csharp
+
+**Get started: Document Intelligence Studio**:
+
+https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/try-document-intelligence-studio?view=doc-intel-4.0.0
 
 ## 1.10. Custom Vision
 
