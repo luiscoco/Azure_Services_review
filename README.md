@@ -62,17 +62,30 @@ Speech is available for many languages, regions, and price points
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/20dccb19-127b-4910-a13b-7fc9db1c40ce)
 
-Quickstart: Recognize and convert speech to text:
+**Quickstart: Recognize and convert speech to text**:
 
 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?tabs=windows%2Cterminal&pivots=programming-language-csharp
 
-Quickstart: Convert text to speech:
+**Quickstart: Convert text to speech**:
 
 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=windows%2Cterminal&pivots=programming-language-csharp
 
-Quickstart: Recognize and translate speech to text: 
+**Quickstart: Recognize and translate speech to text**: 
 
 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?tabs=windows%2Cterminal&pivots=programming-language-csharp
+
+### 1.4. Language service
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1f638398-1f30-45df-93f8-09b342a54da8)
+
+https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/
+
+https://learn.microsoft.com/en-us/azure/ai-services/language-service/
+
+Azure AI Language is a cloud-based service that provides Natural Language Processing (NLP) features for understanding and analyzing text
+
+Use this service to help build intelligent applications using the web-based Language Studio, REST APIs, and client libraries
+
 
 ## 2. Analytics
 
