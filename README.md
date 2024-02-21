@@ -20,7 +20,7 @@ Data Explorer for log and time series analytics, Pipelines for data integration 
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/6d845eb3-8714-4bf7-9f01-6800967b8ce0)
 
-### 1.2. 
+### 1.2. Azure AI services
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/fd2da7e1-d6b4-44b6-9b16-9cc6114f4974)
 
