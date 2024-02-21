@@ -20,8 +20,21 @@ Data Explorer for log and time series analytics, Pipelines for data integration 
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/6d845eb3-8714-4bf7-9f01-6800967b8ce0)
 
-
 ### 1.2. 
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/fd2da7e1-d6b4-44b6-9b16-9cc6114f4974)
+
+https://learn.microsoft.com/en-us/azure/ai-services/
+
+https://learn.microsoft.com/en-us/training/paths/get-started-azure-ai/
+
+
+
+Get access to Vision, Language, Search, and Speech Azure AI services with a single API key
+
+Quickly connect services together to achieve more insights into your content and easily integrate with other services like Azure Search
+
+
 
 
 ## 2. Analytics
