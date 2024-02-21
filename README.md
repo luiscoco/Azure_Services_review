@@ -10,6 +10,8 @@ https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is
 
 https://learn.microsoft.com/en-us/training/modules/introduction-azure-synapse-analytics/
 
+https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started
+
 Azure Synapse is an enterprise analytics service that accelerates time to insight across data warehouses and big data systems
 
 Azure Synapse brings together the best of SQL technologies used in enterprise data warehousing, Spark technologies used for big data, 
