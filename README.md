@@ -322,12 +322,15 @@ The Databricks Data Intelligence Platform integrates with cloud storage and secu
 
 https://learn.microsoft.com/en-us/azure/databricks/getting-started/
 
-
-
-
 ### 2.6. Data Lake Storage Gen1
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/0e492be3-3a7e-4320-ac36-000b399d7bad)
+
+https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-data-lake-storage/
+
+https://learn.microsoft.com/en-us/azure/data-lake-store/
+
+
 
 ### 2.7. Event Grid System Topic
 
