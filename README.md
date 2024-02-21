@@ -250,6 +250,18 @@ See section 1.1. in this document
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/9cfae70e-4404-4c95-9256-e9c93b5689c8)
 
+https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2&wt.mc_id=azuremachinelearning_inproduct_portal
+
+Azure Machine Learning is a cloud service for accelerating and managing the machine learning (ML) project lifecycle
+
+ML professionals, data scientists, and engineers can use it in their day-to-day workflows to train and deploy models and manage machine learning operations (MLOps)
+
+You can create a model in Machine Learning or use a model built from an open-source platform, such as PyTorch, TensorFlow, or scikit-learn. MLOps tools help you monitor, retrain, and redeploy models
+
+Getting starte with ML:
+
+https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2
+
 ### 2.4. Event Hubs
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ed002a6b-c037-49af-89ab-61eb0c6bb814)
