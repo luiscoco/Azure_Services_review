@@ -36,6 +36,9 @@ Azure AI services help developers and organizations rapidly create intelligent, 
 
 Example applications include natural language processing for conversations, search, monitoring, translation, speech, vision, and decision-making
 
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/d5387899-2e52-412b-b070-f6ddca4967c7)
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ff90dbfd-0e4e-46f9-9ec9-510df396b3df)
 
 ## 2. Analytics
 
