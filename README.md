@@ -180,40 +180,144 @@ https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quicks
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3a643727-7f18-401b-b7ca-2acd9e95ac90)
 
+https://www.customvision.ai/
+
+https://learn.microsoft.com/en-us/training/modules/detect-objects-images-custom-vision/
+
+https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f8a8834b-2096-4581-8e54-29e5a131f01c)
+
+Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed
+
+**Quickstart: Build an image classification model with the Custom Vision portal**:
+
+https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-build-a-classifier
+
+**Quickstart: Create an image classification project with the Custom Vision client library or REST API**
+
+https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quickstarts/image-classification?tabs=windows%2Cvisual-studio&pivots=programming-language-csharp
+
+**Quickstart: Build an object detector with the Custom Vision website**
+
+https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/get-started-build-detector
+
+**Quickstart: Create an object detection project with the Custom Vision client library**
+
+https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quickstarts/object-detection?tabs=windows%2Cvisual-studio&pivots=programming-language-csharp
+
 ## 2. Analytics
+
+
+
+
 
 ## 3. Compute
 
+
+
+
+
 ## 4. Containers
+
+
+
+
+
 
 ## 5. Databases
 
+
+
+
+
+
 ## 6. Developer Tools
+
+
+
+
+
 
 ## 7. DevOps
 
+
+
+
+
+
 ## 8. Identity
+
+
+
+
 
 ## 9. Integration
 
+
+
+
+
+
 ## 10. IoT
+
+
+
+
+
 
 ## 11. IT & Management Tools
 
+
+
+
+
+
 ## 12. Media
+
+
+
+
+
 
 ## 13. Migration
 
+
+
+
+
+
 ## 14. Monitoring and Diagnostics
+
+
+
+
+
 
 
 ## 15. Networking
 
 
+
+
+
+
+
 ## 16. Security
 
 
+
+
+
+
+
+
 ## 17. Storage
+
+
+
+
+
 
 
 ## 18. Web
