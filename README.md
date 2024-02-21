@@ -2,6 +2,15 @@
 
 ## 1. AI + Machine Learning
 
+### 1.1. Azure Synapse Analytics
+
+https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is
+
+https://learn.microsoft.com/en-us/training/modules/introduction-azure-synapse-analytics/
+
+### 1.2. 
+
+
 ## 2. Analytics
 
 ## 3. Compute
