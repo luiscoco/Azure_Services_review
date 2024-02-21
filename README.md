@@ -210,48 +210,43 @@ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quicks
 
 ### 2.1. Data Factory
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ed0d0a1e-f4f9-4079-b430-20bf9ae5a124)
 
 ### 2.2. Azure Synapse Analytics
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/7d28f973-a86b-40ef-94eb-84c059cb0671)
 
 ### 2.3. Azure Machine Learning
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/9cfae70e-4404-4c95-9256-e9c93b5689c8)
 
 ### 2.4. Event Hubs
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ed002a6b-c037-49af-89ab-61eb0c6bb814)
 
 ### 2.5. Azure Databricks
 
-
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/35507b60-a5c3-4438-b947-657f5defd28f)
 
 ### 2.6. Data Lake Storage Gen1
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/0e492be3-3a7e-4320-ac36-000b399d7bad)
 
 ### 2.7. Event Grid System Topic
 
-
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1f14de1f-b6e0-460e-bd43-f974230668a2)
 
 ### 2.8. Azure Data Explorer
 
-
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3bf6cb81-f6c6-4c2d-8310-d1b29a3936c0)
 
 ### 2.9. Microsoft Purview
 
-
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/651c370e-d642-4588-b729-54fc84cc268d)
 
 ### 2.10. Analysis Services
 
-
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1dde36d3-587f-4a14-bc88-6a9e8bfe1e68)
 
 ## 3. Compute
 
