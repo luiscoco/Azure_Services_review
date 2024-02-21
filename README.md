@@ -236,6 +236,10 @@ https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started
 
 https://www.youtube.com/playlist?list=PLGjZwEtPN7j8b9dPA0HrtJDptOB69B506
 
+**Azure Data Factory Tutorial | Introduction to ETL in Azure**
+
+https://www.youtube.com/watch?v=EpDkxTHAhOs&t=1s
+
 ### 2.2. Azure Synapse Analytics
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/7d28f973-a86b-40ef-94eb-84c059cb0671)
