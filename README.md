@@ -232,12 +232,11 @@ https://learn.microsoft.com/en-us/azure/data-factory/data-factory-tutorials
 
 https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started
 
-
-
-
 ### 2.2. Azure Synapse Analytics
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/7d28f973-a86b-40ef-94eb-84c059cb0671)
+
+See section 1.1. in this document
 
 ### 2.3. Azure Machine Learning
 
