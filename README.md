@@ -18,10 +18,6 @@ Azure Synapse brings together the best of SQL technologies used in enterprise da
 
 Data Explorer for log and time series analytics, Pipelines for data integration and ETL/ELT, and deep integration with other Azure services such as Power BI, CosmosDB, and AzureML
 
-Azure AI services help developers and organizations rapidly create intelligent, cutting-edge, market-ready, and responsible applications with out-of-the-box and pre-built and customizable APIs and models
-
-Example applications include natural language processing for conversations, search, monitoring, translation, speech, vision, and decision-making.
-
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/6d845eb3-8714-4bf7-9f01-6800967b8ce0)
 
 ### 1.2. 
@@ -32,13 +28,13 @@ https://learn.microsoft.com/en-us/azure/ai-services/
 
 https://learn.microsoft.com/en-us/training/paths/get-started-azure-ai/
 
-
-
 Get access to Vision, Language, Search, and Speech Azure AI services with a single API key
 
 Quickly connect services together to achieve more insights into your content and easily integrate with other services like Azure Search
 
+Azure AI services help developers and organizations rapidly create intelligent, cutting-edge, market-ready, and responsible applications with out-of-the-box and pre-built and customizable APIs and models
 
+Example applications include natural language processing for conversations, search, monitoring, translation, speech, vision, and decision-making
 
 
 ## 2. Analytics
