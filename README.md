@@ -40,6 +40,40 @@ Example applications include natural language processing for conversations, sear
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ff90dbfd-0e4e-46f9-9ec9-510df396b3df)
 
+### 1.3. Speech
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/a90323e5-833d-40e5-9a2a-38d15135e2a6)
+
+https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/
+
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/
+
+The Speech service provides speech to text and text to speech capabilities with a Speech resource
+
+You can transcribe speech to text with high accuracy, produce natural-sounding text to speech voices, translate spoken audio, and use speaker recognition during conversations
+
+Create custom voices, add specific words to your base vocabulary, or build your own models
+
+Run Speech anywhere, in the cloud or at the edge in containers
+
+It's easy to speech enable your applications, tools, and devices with the Speech CLI, Speech SDK, Speech Studio, or REST APIs
+
+Speech is available for many languages, regions, and price points
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/20dccb19-127b-4910-a13b-7fc9db1c40ce)
+
+Quickstart: Recognize and convert speech to text:
+
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?tabs=windows%2Cterminal&pivots=programming-language-csharp
+
+Quickstart: Convert text to speech:
+
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=windows%2Cterminal&pivots=programming-language-csharp
+
+Quickstart: Recognize and translate speech to text: 
+
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?tabs=windows%2Cterminal&pivots=programming-language-csharp
+
 ## 2. Analytics
 
 ## 3. Compute
