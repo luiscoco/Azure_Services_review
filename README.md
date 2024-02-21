@@ -208,6 +208,47 @@ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quicks
 
 ## 2. Analytics
 
+### 2.1. Data Factory
+
+
+
+### 2.2. Azure Synapse Analytics
+
+
+
+### 2.3. Azure Machine Learning
+
+
+
+### 2.4. Event Hubs
+
+
+
+### 2.5. Azure Databricks
+
+
+
+
+### 2.6. Data Lake Storage Gen1
+
+
+
+### 2.7. Event Grid System Topic
+
+
+
+
+### 2.8. Azure Data Explorer
+
+
+
+
+### 2.9. Microsoft Purview
+
+
+
+
+### 2.10. Analysis Services
 
 
 
