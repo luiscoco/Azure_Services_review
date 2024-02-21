@@ -138,14 +138,19 @@ https://learn.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0
 
 https://learn.microsoft.com/en-us/azure/ai-services/qnamaker/
 
-The QnA Maker service is being retired on the 31st of March, 2025
-
-
+The QnA Maker service is being **retired** on the 31st of March, 2025
 
 ## 1.8. Language Understanding
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1f2fc983-9169-47d9-9de4-94c101c641e6)
 
+https://learn.microsoft.com/en-us/azure/ai-services/luis/what-is-luis
+
+https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/
+
+LUIS will be **retired** on October 1st 2025 and starting April 1st 2023 you will not be able to create new LUIS resources
+
+We recommend migrating your LUIS applications to conversational language understanding to benefit from continued product support and multilingual capabilities.
 
 ## 1.9. Document Intelligence (form recognizer)
 
