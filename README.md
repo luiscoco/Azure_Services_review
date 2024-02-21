@@ -274,6 +274,18 @@ https://learn.microsoft.com/en-us/training/modules/intro-to-event-hubs/
 
 https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/
 
+Azure Event Hubs is a cloud native data streaming service that can stream millions of events per second, with low latency, from any source to any destination
+
+Event Hubs is compatible with Apache Kafka, and it enables you to run existing Kafka workloads without any code changes
+
+Using Event Hubs to ingest and store streaming data, businesses can harness the power of streaming data to gain valuable insights, drive real-time analytics, 
+
+and respond to events as they happen, enhancing overall efficiency and customer experience
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/8251784b-b930-471c-b322-dfae76f7c1d9)
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f787090e-5b5b-4369-a52f-d3c6df0d0a0d)
+
 **Quickstart: Create an event hub using Azure portal**
 
 https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-create
