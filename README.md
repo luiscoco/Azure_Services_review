@@ -267,8 +267,42 @@ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quicks
 
 ## 5. Databases
 
+### 5.1. SQL Database
 
 
+
+### 5.2. Azure SQL
+
+
+
+### 5.3. Azure Cosmos DB
+
+
+
+### 5.4. Azure Synapse Analytics
+
+
+
+### 5.5. Azure Database for PostgreSQL
+
+
+
+### 5.6. Azure Database for MySQL
+
+
+
+### 5.7. Azure SQL Managed Instance
+
+
+
+### 5.8. SQL Server (logical server)
+
+
+### 5.9. Azure Database for PostgreSQL Flexible Server
+
+
+
+### 5.10. Analysis Services
 
 
 
