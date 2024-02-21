@@ -232,6 +232,10 @@ https://learn.microsoft.com/en-us/azure/data-factory/data-factory-tutorials
 
 https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started
 
+**Azure Data Factory Introduction | Tutorial for Beginners**: 
+
+https://www.youtube.com/playlist?list=PLGjZwEtPN7j8b9dPA0HrtJDptOB69B506
+
 ### 2.2. Azure Synapse Analytics
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/7d28f973-a86b-40ef-94eb-84c059cb0671)
