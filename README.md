@@ -22,6 +22,8 @@ Data Explorer for log and time series analytics, Pipelines for data integration 
 
 ### 1.2. Azure AI services
 
+https://azure.microsoft.com/en-us/products/ai-services/#Services
+
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/fd2da7e1-d6b4-44b6-9b16-9cc6114f4974)
 
 https://learn.microsoft.com/en-us/azure/ai-services/
@@ -155,6 +157,10 @@ We recommend migrating your LUIS applications to conversational language underst
 ## 1.9. Document Intelligence (form recognizer)
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/0b857d37-0c95-468a-aa56-d3024c11f998)
+
+https://learn.microsoft.com/en-us/training/modules/intro-to-form-recognizer/
+
+https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0
 
 
 ## 1.10. Custom Vision
