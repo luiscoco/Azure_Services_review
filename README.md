@@ -310,6 +310,21 @@ https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/eve
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/35507b60-a5c3-4438-b947-657f5defd28f)
 
+https://learn.microsoft.com/en-us/training/modules/explore-azure-databricks/
+
+https://learn.microsoft.com/en-us/azure/databricks/
+
+Azure Databricks is a unified, open analytics platform for building, deploying, sharing, and maintaining enterprise-grade data, analytics, and AI solutions at scale
+
+The Databricks Data Intelligence Platform integrates with cloud storage and security in your cloud account, and manages and deploys cloud infrastructure on your behalf
+
+**Getting Start with Azure Databricks**
+
+https://learn.microsoft.com/en-us/azure/databricks/getting-started/
+
+
+
+
 ### 2.6. Data Lake Storage Gen1
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/0e492be3-3a7e-4320-ac36-000b399d7bad)
