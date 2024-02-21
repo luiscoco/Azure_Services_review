@@ -269,42 +269,43 @@ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quicks
 
 ### 5.1. SQL Database
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/eb697363-a7c9-4cf8-9ca6-2d55011c4541)
 
 ### 5.2. Azure SQL
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/2b093a54-0f43-4396-afe1-11d47b6d50be)
 
 ### 5.3. Azure Cosmos DB
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/9c10b06a-bf16-41de-9263-48b6c53f86f8)
 
 ### 5.4. Azure Synapse Analytics
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f6c2953b-8a20-44bc-963c-1a87ce7e8568)
 
 ### 5.5. Azure Database for PostgreSQL
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/fd26fcfd-ac9c-4551-9f8e-006aa3ab11c1)
 
 ### 5.6. Azure Database for MySQL
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/a6555e6a-ea8e-496f-8651-aeac7a004a4a)
 
 ### 5.7. Azure SQL Managed Instance
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/acffff24-07e8-4fea-b86b-0f858a359d62)
 
 ### 5.8. SQL Server (logical server)
 
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ff076dba-d641-4772-a46d-d283df7ea311)
 
 ### 5.9. Azure Database for PostgreSQL Flexible Server
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/5ffcffcd-304c-4a15-8f58-fdb624c9141a)
 
 ### 5.10. Analysis Services
 
-
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f3e6e42a-9c46-40a7-90da-ff80059539bb)
 
 ## 6. Developer Tools
 
