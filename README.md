@@ -212,6 +212,29 @@ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quicks
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ed0d0a1e-f4f9-4079-b430-20bf9ae5a124)
 
+https://learn.microsoft.com/en-us/training/modules/data-integration-azure-data-factory/?WT.mc_id=Portal-Microsoft_Azure_Marketplace
+
+https://learn.microsoft.com/en-us/azure/data-factory/
+
+In the world of big data, raw, unorganized data is often stored in relational, non-relational, and other storage systems
+
+However, on its own, raw data doesn't have the proper context or meaning to provide meaningful insights to analysts, data scientists, or business decision makers
+
+Big data requires a service that can orchestrate and operationalize processes to refine these enormous stores of raw data into actionable business insights
+
+Azure Data Factory is a managed cloud service that's built for these complex hybrid **extract-transform-load** (**ETL**), **extract-load-transform** (**ELT**), and data integration projects
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/78488f08-fac8-409a-9150-d631f24100b4)
+
+See also these links for getting started:
+
+https://learn.microsoft.com/en-us/azure/data-factory/data-factory-tutorials
+
+https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started
+
+
+
+
 ### 2.2. Azure Synapse Analytics
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/7d28f973-a86b-40ef-94eb-84c059cb0671)
