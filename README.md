@@ -330,25 +330,27 @@ https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-data-la
 
 https://learn.microsoft.com/en-us/azure/data-lake-store/
 
+### 2.7. Data Lake Storage Gen2
 
 
-### 2.7. Event Grid System Topic
+
+### 2.8. Event Grid System Topic
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1f14de1f-b6e0-460e-bd43-f974230668a2)
 
-### 2.8. Azure Data Explorer
+### 2.9. Azure Data Explorer
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3bf6cb81-f6c6-4c2d-8310-d1b29a3936c0)
 
-### 2.9. Microsoft Purview
+### 2.10. Microsoft Purview
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/651c370e-d642-4588-b729-54fc84cc268d)
 
-### 2.10. Analysis Services
+### 2.11. Analysis Services
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1dde36d3-587f-4a14-bc88-6a9e8bfe1e68)
 
-### 2.11. Mongo Atlas
+### 2.12. Mongo Atlas
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f48f21ee-1c6d-457f-9f6a-99b6132e5620)
 
