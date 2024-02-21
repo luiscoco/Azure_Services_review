@@ -86,6 +86,40 @@ Azure AI Language is a cloud-based service that provides Natural Language Proces
 
 Use this service to help build intelligent applications using the web-based Language Studio, REST APIs, and client libraries
 
+## 1.5. Computer Vision
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f4b17e05-689a-4fdf-8410-d10657657388)
+
+https://learn.microsoft.com/en-us/training/paths/explore-computer-vision-microsoft-azure/
+
+https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/
+
+Azure's Azure AI Vision service gives you access to advanced algorithms that process images and return information based on the visual features you're interested in
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/68758dbd-70ec-4362-9e42-69ba1d859292)
+
+**Quickstart: Azure AI Vision v3.2 GA Read**
+
+https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-csharp
+
+**Quickstart: Image Analysis**
+
+https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-csharp
+
+**Install and run the Spatial Analysis container (preview)**
+
+https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge
+
+## 1.6. 
+
+
+## 1.7. 
+
+
+## 1.8. 
+
+
+
 
 ## 2. Analytics
 
