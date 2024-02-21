@@ -110,14 +110,36 @@ https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-
 
 https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge
 
-## 1.6. 
+## 1.6. Translator
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/68ccc7c1-e88c-4f03-82c9-50807efa7f0c)
+
+https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/
+
+https://learn.microsoft.com/en-us/azure/ai-services/translator/
+
+Translator Service is a cloud-based neural machine translation service that is part of the Azure AI services family and can be used with any operating system
+
+Translator powers many Microsoft products and services used by thousands of businesses worldwide for language translation and other language-related operations
+
+In this overview, you learn how Translator can enable you to build intelligent, multi-language solutions for your applications across all supported languages
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/12b00b39-b886-4a79-b38e-40f8f496b389)
+
+**Quickstart: Azure AI Translator REST APIs**
+
+https://learn.microsoft.com/en-us/azure/ai-services/translator/quickstart-text-rest-api?tabs=csharp
+
+## 1.7. QnA Maker
 
 
-## 1.7. 
+## 1.8. Language Understanding
 
 
-## 1.8. 
+## 1.9. Document Intelligence (form recognizer)
 
+
+## 1.10. Custom Vision
 
 
 
