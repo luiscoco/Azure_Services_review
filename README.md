@@ -1,5 +1,7 @@
 # Azure Services review
 
+https://learn.microsoft.com/en-us/azure/architecture/
+
 ## 1. AI + Machine Learning
 
 ### 1.1. Azure Synapse Analytics
@@ -268,6 +270,8 @@ https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-
 
 https://learn.microsoft.com/en-us/azure/event-hubs/
 
+https://learn.microsoft.com/en-us/training/modules/intro-to-event-hubs/
+
 https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/
 
 **Quickstart: Create an event hub using Azure portal**
@@ -285,6 +289,10 @@ https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-java-get-started-s
 **Enable capturing of events streaming through Azure Event Hubs**
 
 https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-enable-through-portal
+
+**Partitioning in Azure Event Hubs and Kafka**
+
+https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/event-hubs/partitioning-in-event-hubs-and-kafka
 
 ### 2.5. Azure Databricks
 
