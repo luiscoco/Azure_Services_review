@@ -266,6 +266,25 @@ https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ed002a6b-c037-49af-89ab-61eb0c6bb814)
 
+https://learn.microsoft.com/en-us/azure/event-hubs/
+
+**Quickstart: Create an event hub using Azure portal**
+
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-create
+
+**Quickstart: Send events to and receive events from Azure Event Hubs using .NET**
+
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send?tabs=passwordless%2Croles-azure-portal
+
+**Use Java to send events to or receive events from Azure Event Hubs**
+
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-java-get-started-send?tabs=passwordless%2Croles-azure-portal
+
+**Enable capturing of events streaming through Azure Event Hubs**
+
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-enable-through-portal
+
+
 ### 2.5. Azure Databricks
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/35507b60-a5c3-4438-b947-657f5defd28f)
