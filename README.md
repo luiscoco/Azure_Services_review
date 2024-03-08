@@ -332,6 +332,8 @@ https://learn.microsoft.com/en-us/azure/data-lake-store/
 
 ### 2.7. Data Lake Storage Gen2
 
+https://learn.microsoft.com/es-es/training/modules/introduction-to-azure-data-lake-storage/
+
 https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
 
 Azure Data Lake Storage Gen2 is a set of capabilities dedicated to **big data analytics**, built on Azure Blob Storage
@@ -360,7 +362,12 @@ Finer grain security model
 
 Massive scalability
 
+For creating Azure Data Lake Storage Gen2 we have to create a new Azure Storage Account and select the following option
 
+
+If you would like to upgrade an existing Azure Storage Accounto to become Azure Data Lake Storage Gen 2 select the following option
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/12443c6b-9ff2-4e6a-a9eb-dd5451379632)
 
 ### 2.8. Event Grid System Topic
 
