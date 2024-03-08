@@ -364,6 +364,7 @@ Massive scalability
 
 For creating a **new Azure Data Lake Storage Gen2** we have to create a new Azure Storage Account and select the following option
 
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/c6e1b649-3da9-4527-9265-0ae00bd407d0)
 
 If you would like to **upgrade an existing Azure Storage Account** to become Azure Data Lake Storage Gen 2 select the following option
 
