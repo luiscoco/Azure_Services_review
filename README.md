@@ -380,6 +380,12 @@ Then we nvaigate to the
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1f14de1f-b6e0-460e-bd43-f974230668a2)
 
+https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-system-topics
+
+https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-system-topics-cli
+
+https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-system-topics-arm
+
 ### 2.9. Azure Data Explorer
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3bf6cb81-f6c6-4c2d-8310-d1b29a3936c0)
