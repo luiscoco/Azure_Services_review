@@ -368,6 +368,12 @@ For creating a **new Azure Data Lake Storage Gen2** we have to create a new Azur
 
 If you would like to **upgrade an existing Azure Storage Account** to become Azure Data Lake Storage Gen 2 select the following option
 
+Previously you should unselect the options soft delete blobs and containers
+
+![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/20ed66c5-7a4c-4c7d-9aea-8167dcdcdfa7)
+
+Then we nvaigate to the 
+
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/12443c6b-9ff2-4e6a-a9eb-dd5451379632)
 
 ### 2.8. Event Grid System Topic
