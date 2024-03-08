@@ -388,6 +388,8 @@ https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-system-top
 
 https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_09.html
 
+https://learn.microsoft.com/en-us/azure/event-grid/overview
+
 ### 2.9. Azure Data Explorer
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3bf6cb81-f6c6-4c2d-8310-d1b29a3936c0)
