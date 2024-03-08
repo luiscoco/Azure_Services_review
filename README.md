@@ -390,6 +390,8 @@ https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
 
 https://learn.microsoft.com/en-us/azure/event-grid/overview
 
+https://learn.microsoft.com/en-us/azure/event-grid/?source=recommendations
+
 ### 2.9. Azure Data Explorer
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3bf6cb81-f6c6-4c2d-8310-d1b29a3936c0)
