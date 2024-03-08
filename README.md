@@ -332,6 +332,34 @@ https://learn.microsoft.com/en-us/azure/data-lake-store/
 
 ### 2.7. Data Lake Storage Gen2
 
+https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
+Azure Data Lake Storage Gen2 is a set of capabilities dedicated to **big data analytics**, built on Azure Blob Storage
+
+A **data lake** is a single, centralized repository where you can store all your data, both structured and unstructured
+
+A data lake enables your organization to quickly and more easily store, access, and analyze a wide **variety of data** in a single location
+
+With a data lake, you don't need to conform your data to fit an existing structure
+
+Instead, you can store your data in its raw or native format, usually as files or as binary large objects (blobs)
+
+**Azure Data Lake Storage** is a cloud-based, enterprise data lake solution
+
+You use it to capture data of any type and ingestion speed in a single location for easy access and analysis using various frameworks
+
+Data Lake Storage Gen2 includes the following capabilities.
+
+Hadoop-compatible access
+
+Hierarchical directory structure
+
+Optimized cost and performance
+
+Finer grain security model
+
+Massive scalability
+
 
 
 ### 2.8. Event Grid System Topic
