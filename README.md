@@ -362,10 +362,10 @@ Finer grain security model
 
 Massive scalability
 
-For creating Azure Data Lake Storage Gen2 we have to create a new Azure Storage Account and select the following option
+For creating a **new Azure Data Lake Storage Gen2** we have to create a new Azure Storage Account and select the following option
 
 
-If you would like to upgrade an existing Azure Storage Accounto to become Azure Data Lake Storage Gen 2 select the following option
+If you would like to **upgrade an existing Azure Storage Account** to become Azure Data Lake Storage Gen 2 select the following option
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/12443c6b-9ff2-4e6a-a9eb-dd5451379632)
 
