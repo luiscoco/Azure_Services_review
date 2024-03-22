@@ -114,7 +114,7 @@ https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-
 
 https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge
 
-## 1.6. Translator
+### 1.6. Translator
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/68ccc7c1-e88c-4f03-82c9-50807efa7f0c)
 
@@ -134,7 +134,7 @@ In this overview, you learn how Translator can enable you to build intelligent, 
 
 https://learn.microsoft.com/en-us/azure/ai-services/translator/quickstart-text-rest-api?tabs=csharp
 
-## 1.7. QnA Maker
+### 1.7. QnA Maker
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/ecc9e771-f343-40c5-88c6-06bb27a7c785)
 
@@ -144,7 +144,7 @@ https://learn.microsoft.com/en-us/azure/ai-services/qnamaker/
 
 The QnA Maker service is being **retired** on the 31st of March, 2025
 
-## 1.8. Language Understanding
+### 1.8. Language Understanding
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/1f2fc983-9169-47d9-9de4-94c101c641e6)
 
@@ -156,7 +156,7 @@ LUIS will be **retired** on October 1st 2025 and starting April 1st 2023 you wil
 
 We recommend migrating your LUIS applications to conversational language understanding to benefit from continued product support and multilingual capabilities.
 
-## 1.9. Document Intelligence (form recognizer)
+### 1.9. Document Intelligence (form recognizer)
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/0b857d37-0c95-468a-aa56-d3024c11f998)
 
@@ -178,7 +178,7 @@ https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quicks
 
 https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/try-document-intelligence-studio?view=doc-intel-4.0.0
 
-## 1.10. Custom Vision
+### 1.10. Custom Vision
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/3a643727-7f18-401b-b7ca-2acd9e95ac90)
 
