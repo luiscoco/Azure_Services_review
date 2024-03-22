@@ -90,7 +90,7 @@ Azure AI Language is a cloud-based service that provides Natural Language Proces
 
 Use this service to help build intelligent applications using the web-based Language Studio, REST APIs, and client libraries
 
-## 1.5. Computer Vision
+### 1.5. Computer Vision
 
 ![image](https://github.com/luiscoco/Azure_Services_review/assets/32194879/f4b17e05-689a-4fdf-8410-d10657657388)
 
